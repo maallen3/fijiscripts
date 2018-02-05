@@ -3,7 +3,7 @@ import sys
 import os
 
 def calmp(num_of_reads, total_reads):
-        mp = float(num_of_reads)/(int(total_reads)/1000000)
+        mp = int(num_of_reads)/(int(total_reads)/1000000)
         return mp
 
 
