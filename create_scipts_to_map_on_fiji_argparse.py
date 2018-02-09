@@ -329,4 +329,4 @@ if __name__=="__main__":
 
  
 #test
-#python create_scipts_to_map_on_fiji.py /scratch/Users/allenma/171025_NB501447_0179_fastq/Allen_Dowell-371/ /scratch/Users/allenma/pro/ hg19 allenma@colorado.edu 
+#python create_scipts_to_map_on_fiji_argparse.py /scratch/Users/allenma/171025_NB501447_0179_fastq/Allen_Dowell-371/ /scratch/Users/allenma/pro/ hg19 allenma@colorado.edu 
